@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultToc Version="1">
+    <TocEntry Title="[%=System.LinkedTitle%]" Link="/Content/new1.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry Title="[%=System.LinkedTitle%]" Link="/Content/new2.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry Title="[%=System.LinkedTitle%]" Link="/Content/new3.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry Title="[%=System.LinkedTitle%]" Link="/Content/new4.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry Title="[%=System.LinkedTitle%]" Link="/Content/new5.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry Title="[%=System.LinkedTitle%]" Link="/Content/new6.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry Title="[%=System.LinkedTitle%]" Link="/Content/new7.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry Title="[%=System.LinkedTitle%]" Link="/Content/new8.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+</CatapultToc>
